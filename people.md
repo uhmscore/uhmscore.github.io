@@ -6,6 +6,7 @@ active: people
 <div markdown="1">
 <a name="top"></a>
 <div>
+
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
@@ -18,7 +19,7 @@ the supervision of Dr. Eric Miller on metal oxide thin films for photoelectroche
 Films Laboratory group leader in 2010. Dr. Gaillard’s current research projects include: (i) engineering of high efficiency PEC materials, with an emphasis 
 on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrystal inks for printable thin film photovoltaics.
 <br>
-[Back to top](#top)
+<br>
 
 
 <h3><a name="ishii"></a>Dr. Hope A. Ishii</h3>
@@ -33,6 +34,6 @@ the supervision of Dr. Eric Miller on metal oxide thin films for photoelectroche
 Films Laboratory group leader in 2010. Dr. Gaillard’s current research projects include: (i) engineering of high efficiency PEC materials, with an emphasis 
 on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrystal inks for printable thin film photovoltaics.
 <br>
-[Back to top](#top)
+<br>
 </div>
 </div>
