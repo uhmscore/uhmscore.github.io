@@ -25,9 +25,9 @@ and make transformative leaps forward in knowledge. In MSCoRE, we aim to create 
 
 <h3>Advanced Electron Microscopy Center</h3>
 <div class="floatright">
-<img src="images/tem.tif" width="350">
+<img src="images/tem.jpg" width="350">
 </div>
-The Advanced Electron Microscopy Center is part of the School of Ocean and Earth Science and Technology, and is managed by Dr. Hope Ishii.  
+The Advanced Electron Microscopy Center is part of the School of Ocean and Earth Science and Technology, and is managed by Dr. Hope Ishii. 
 The Center features electron and ion microscopy instruments for sample analysis, and additional tools and instruments for small sample 
 preparation. The Center boasts a world-class, state-of-the-art aberration-corrected TEM/STEM and FIB (described below), the only 
 instruments of their kind in the state of Hawaii. Together, these tools enable micro- and nano-scale characterization of the chemistry 
@@ -35,7 +35,7 @@ instruments of their kind in the state of Hawaii. Together, these tools enable m
 foundation for understanding processing-property relationships in the photocatalytic, battery and high-pressure materials, recycling and 
 water purification, and nanodevice developments (detectors/sensors) described in this NRT project.
 <br>
-<bf>FEI Titan3 G2 60-300 “SuperSTEM”:</bf> The Titan is an aberration-corrected (scanning) transmission electron microscope, or TEM/STEM, that has 
+<b>FEI Titan3 G2 60-300 “SuperSTEM”:</b> The Titan is an aberration-corrected (scanning) transmission electron microscope, or TEM/STEM, that has 
 an environmental enclosure for improved noise isolation (Fig. F4), as well as a monochromator and dual spherical aberration correctors for 
 the probe and image in. It is aligned for operation at 80, 200 and 300 kV. It is equipped with a high angle annular dark field (HAADF) 
 detector, Gatan Tridiem GIF (Gatan imaging filter) for imaging and spectroscopy and an EDAX Genesis 4000 Si(Li) solid state energy 
@@ -44,7 +44,7 @@ dispersive x-ray spectrometer with ultrathin window. Sub-Ångström spatial reso
 The TEM/STEM will be applied to assess photovoltaic and battery samples, water purification materials and newly developed high-pressure 
 materials.
 <br>
-<bf>Dual beam Helios focused ion beam instrument (FIB):</bf> A companion instrument to the Titan (S)TEM, the FEI Helios NanoLab 660 dual-beam Focused 
+<b>Dual beam Helios focused ion beam instrument (FIB):</b> A companion instrument to the Titan (S)TEM, the FEI Helios NanoLab 660 dual-beam Focused 
 Ion Beam (FIB) microscope combines a Schottky field emission secondary electron microscope (SEM) electron column and Tomahawk ion column in 
 the same instrument. The FIB is equipped with a silicon-drift energy dispersive X-ray detector for elemental analyses and a retractable 
 backscatter detector and retractable STEM detector with bright field, dark field and high angle annular dark field segments for imaging 
@@ -54,6 +54,6 @@ electron-beam resolution at 15 kV and 4 nm ion-beam resolution at 30 kV. The FIB
 assessment of material chemistry, texture, and morphology and for nanodevice modifications.
 <br>
 
-<bf>Supporting Equipment:</bf> Other equipment in the Center to support materials science research includes a vacuum oven and soft-walled cleanroom 
+<b>Supporting Equipment:</b> Other equipment in the Center to support materials science research includes a vacuum oven and soft-walled cleanroom 
 with a Zeiss stereomicroscope, Nikon petrographic optical microscope, digital camera and image capture software, and a Leica Ultracut EM 
 UC7 ultramicrotome for embedded sample preparation of thin sections for TEM/STEM analysis.
