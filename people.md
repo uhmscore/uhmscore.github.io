@@ -15,7 +15,8 @@ active: people
 </div>
 </div>
 <br>
-<br>
+
+<div>
 
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
 <div class="floatright">
@@ -44,3 +45,4 @@ Films Laboratory group leader in 2010. Dr. Gaillard’s current research project
 on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrystal inks for printable thin film photovoltaics.
 <br>
 [Back to top](#top)
+</div>
