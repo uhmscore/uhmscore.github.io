@@ -16,6 +16,8 @@ title: Facilities
 [Battery prototyping and testing laboratories](#matthieu)
 <br>
 [Microfabrication Cleanroom](#cleanroom)
+<br>
+[Thermofluids Laboratory](#shin)
 </div>
 </div>
 
@@ -141,5 +143,19 @@ two Agilent precision power supplies, digital multimeters, a Micromanipulator wa
 Probing Stations wafer probing station, a Nikon photomicrography system, a Rudolf ellipsometer, two Tektronix 
 curve tracers and 5 Tektronix function generators. Within the last year, the UH administration provided $150k 
 for upgrades to this facility.
+<br>
+[Back to top](#top)
+
+<h3><a name="shin"></a>Thermofluids Laboratory</h3>
+<div class="floatright">
+<img src="images/shin.jpg" width="350">
+</div>
+The Thermofluids Lab in the College of Engineering, led by Dr. Sangwoo Shin, is capable of conducting 
+water-related research at various scales. The lab is equipped with microfluidics setup including inverted 
+fluorescence microscope (Leica DMi8), two syringe pumps (Harvard PicoPlus Elite), and water purifier 
+(Millipore DirectQ3). For large-scale filtration experiments, the lab is equipped with a dead-end type 
+reverse osmosis system that is capable of operating up to 1400 psi. Other equipment located in the lab 
+includes: microbalance, plasma treater, lock-in amplifier, hotplate/stirrer, convection oven, chiller, 
+micropipette, sonicator, etc.
 <br>
 [Back to top](#top)
