@@ -14,6 +14,8 @@ title: Facilities
 [Thin Films Laboratory](#nico)
 <br>
 [Battery prototyping and testing laboratories](#matthieu)
+<br>
+[Microfabrication Cleanroom](#cleanroom)
 </div>
 </div>
 
@@ -121,5 +123,23 @@ from 25 to 100 A, at voltages ranging from 5 to 60 V. The battery-testing labora
 temperature chambers and the laboratory itself is built in a retrofitted industrial fridge with its own air conditioning and ventilation system to provide 
 complete isolation from the rest of the facility. Additionally, each temperature chamber is equipped with smoke, CO2 and H2 sensors to detect any gassing, 
 signal to automatically shut down all the testing, purge the chamber with nitrogen, sound a warning alarm, and notify authorized personnel. 
+<br>
+[Back to top](#top)
+
+<h3><a name="cleanroom"></a>Microfabrication Cleanroom</h3>
+<div class="floatright">
+<img src="images/cleanroom.jpg" width="350">
+</div>
+The UH College of Engineering maintains an on-campus dedicated microfabrication cleanroom equipped with 
+mask aligners (OAI, JBA), spin coater (SCS), UV lamp, hotplate, two ovens, wire bonders, refrigerator, 
+acid fume hood, oxidation furnaces, electrochemical deposition capabilities, wet-etch stations, HF vapor-phase 
+etching, a wet station, and a flammable cabinet. This facility is capable of performing the soft lithography 
+required for microfluidics research. It is also equipped with a 3D printer for creating microfluidic molds. 
+Metrology and inspection tools available in this lab include the following: 4-pt probe station, two HP digital 
+oscilloscopes, an HP LCR meter, an Agilent 4155C semiconductor parameter analyzer, an HP spectrum analyzer, 
+two Agilent precision power supplies, digital multimeters, a Micromanipulator wafer probing station and a 
+Probing Stations wafer probing station, a Nikon photomicrography system, a Rudolf ellipsometer, two Tektronix 
+curve tracers and 5 Tektronix function generators. Within the last year, the UH administration provided $150k 
+for upgrades to this facility.
 <br>
 [Back to top](#top)
