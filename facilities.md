@@ -7,9 +7,11 @@ title: Facilities
 <div class="floatright">
 <div class="box" markdown="1">
 <h3>List of MSCoRE facilities:</h3>
-[Center for Advanced Electron Microscopy](#hope)
+[Advanced Electron Microscopy Center](#hope)
 <br>
 [X-ray Atlas Advanced Diffraction Lab](#xray)
+<br>
+[Thin Films Laboratory](#nico)
 </div>
 </div>
 
@@ -55,5 +57,22 @@ assessment of material chemistry, texture, and morphology and for nanodevice mod
 <b>Supporting Equipment:</b> Other equipment in the Center to support materials science research includes a vacuum oven and soft-walled cleanroom 
 with a Zeiss stereomicroscope, Nikon petrographic optical microscope, digital camera and image capture software, and a Leica Ultracut EM 
 UC7 ultramicrotome for embedded sample preparation of thin sections for TEM/STEM analysis.
+<br>
+[Back to top](#top)
+
+<h3><a name="nico"></a>Thin Films Laboratory</h3>
+<div class="floatright">
+<img src="images/nico.jpg" width="350">
+</div>
+The Thin Films Laboratory, managed by Dr. Nicolas Gaillard, is a unique facility at UHM within the Hawaii Natural Energy Institute. It is located in a 
+1,500 sq. ft. facility, and contains sophisticated, state-of-the-art equipment for the fabrication of thin film materials and devices. The Thin Films Lab 
+enables synthesis of photovoltaic and other thin-film structures. Major equipment required for the synthesis of thin-film materials 
+and their characterization are available inside the laboratory, including 2 co-evaporation chambers and 2 sputtering systems. These vacuum chambers 
+can be used to synthesize promising material classes for solar energy conversion, including chalcopyrites (CuInGaSe) and metal oxides (WO3, TiO2, CuWO4). 
+These chambers can also be used to deposit standard materials required for manufacturing solar cells, such as Mo and Ni/Al metal contacts, as well as 
+transparent conductive oxides (ITO and ZnO). The Thin Films Lab is also equipped with centrifuges and spin coaters to develop non-vacuum fabrication 
+techniques for low cost photovoltaics (ink-based processes). The laboratory also operates 3 tube furnaces with annealing capabilities up to 1,600°C and 
+is equipped with standard characterization equipment, including a profilometer, a 5-channel potentiostat, a 4-point probe apparatus, 2 solar simulators, 
+a spectro-radiometer for light intensity calibration, a quantum efficiency measurement system and a UV-visible spectrometer. 
 <br>
 [Back to top](#top)
