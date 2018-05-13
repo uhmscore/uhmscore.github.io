@@ -3,7 +3,6 @@ layout: default
 title: Education
 active: education
 ---
-<h3><a name="xray"></a>X-Ray Atlas Advanced Diffraction Laboratory</h3>
 <div class="floatright">
 <img src="images/computation.jpg" width="350">
 </div>
