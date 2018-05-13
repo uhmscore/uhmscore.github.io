@@ -8,12 +8,13 @@ active: people
 <h3>Table of Contents:</h3>
 [Faculty](#rs)
 <ul>
-<li>*Dr. Nicolas M. Gaillard</li>
-<li>*Dr. Hope A. Ishii</li>
+<li>Dr. Nicolas M. Gaillard</li>
+<li>Dr. Hope A. Ishii</li>
 </ul>
 [Undergraduate Students](#ugs)
 </div>
 </div>
+<br>
 <br>
 
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
