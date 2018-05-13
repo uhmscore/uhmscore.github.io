@@ -3,6 +3,10 @@ layout: default
 title: Education
 active: education
 ---
+<h3><a name="xray"></a>X-Ray Atlas Advanced Diffraction Laboratory</h3>
+<div class="floatright">
+<img src="images/computation.jpg" width="350">
+</div>
 One of the first goals of the Consortium is to develop an undergraduate, team-taught Materials Science course with a focus on 
 synthesis and characterization methods. In this “Materials Synthesis and Characterization” course, we envision an in-class, hands-on, undergraduate 
 research lab experience in which students create a sample and characterize it during class time, working on equipment and instruments in the Consortium 
