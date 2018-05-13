@@ -15,6 +15,7 @@ active: people
 </div>
 </div>
 <br>
+
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
