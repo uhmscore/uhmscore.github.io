@@ -26,6 +26,13 @@
             <li><a href="/research.html">Research</a></li>
             {% endif %}
 			
+            {% if page.active == "education" %}
+            <li class="selected"><a href="/education.html">Education</a></li>
+            {% else %}
+            <li><a href="/education.html">Education</a></li>
+            {% endif %}
+
+			
         </ul>
 	</div>
     <div class="content">
