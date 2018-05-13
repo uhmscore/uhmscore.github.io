@@ -8,6 +8,11 @@ active: home
 <div class="floatleft">
 <img src="images/hope1.jpg" width="350">
 </div>
+In December 2017, The Office of University of Hawaii at Manoa Vice Chancellor for Research funded the Materials 
+Science Consortium for Research and Education, (MSCoRE). This 1-year strategic initiative aims to create connecting 
+infrastructure, establish a web portal to enhance collaboration in materials research, and create dedicated undergraduate 
+courses in this area.
+
 Materials Science is a major and important area of modern scientific research with direct impact on society’s technological 
 progress and many attractive employment opportunities for college graduates. In the United States, it is one of the strongest 
 areas of federal investment in academic research. 
