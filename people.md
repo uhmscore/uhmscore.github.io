@@ -3,7 +3,7 @@ layout: default
 title: People
 active: people
 ---
-<div class="box" markdown="1">
+<div markdown="1">
 <a name="top"></a>
 <div>
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
