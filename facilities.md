@@ -9,13 +9,11 @@ title: Facilities
 <h3>List of MSCoRE facilities:</h3>
 [Advanced Electron Microscopy Center](#hope)
 <br>
-
 [X-ray Atlas Advanced Diffraction Lab](#xray)
 <br>
 [Thin Films Laboratory](#nico)
 <br>
 [Battery prototyping and testing laboratories](#matthieu)
-
 </div>
 </div>
 
