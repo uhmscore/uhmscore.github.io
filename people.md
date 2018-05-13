@@ -7,13 +7,14 @@ active: people
 <div class="box" markdown="1">
 <h3>Table of Contents:</h3>
 [Faculty](#rs)
-* Dr. Nicolas M. Gaillard
-* Dr. Hope A. Ishii
-<br>
+<ul>
+<li>*Dr. Nicolas M. Gaillard</li>
+<li>*Dr. Hope A. Ishii</li>
+</ul>
 [Undergraduate Students](#ugs)
 </div>
 </div>
-
+<br>
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
