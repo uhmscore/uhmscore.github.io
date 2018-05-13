@@ -33,10 +33,10 @@ preparation. The Center boasts a world-class, state-of-the-art aberration-correc
 instruments of their kind in the state of Hawaii. Together, these tools enable micro- and nano-scale characterization of the chemistry 
 (elemental composition, oxidation states, bonding) and structure (crystalline/amorphous structure, defects, interfaces) that provide the 
 foundation for understanding processing-property relationships in the photocatalytic, battery and high-pressure materials, recycling and 
-water purification, and nanodevice developments (detectors/sensors) described in this NRT project.
+water purification, and nanodevice developments (detectors/sensors).
 <br>
 <b>FEI Titan3 G2 60-300 “SuperSTEM”:</b> The Titan is an aberration-corrected (scanning) transmission electron microscope, or TEM/STEM, that has 
-an environmental enclosure for improved noise isolation (Fig. F4), as well as a monochromator and dual spherical aberration correctors for 
+an environmental enclosure for improved noise isolation, as well as a monochromator and dual spherical aberration correctors for 
 the probe and image in. It is aligned for operation at 80, 200 and 300 kV. It is equipped with a high angle annular dark field (HAADF) 
 detector, Gatan Tridiem GIF (Gatan imaging filter) for imaging and spectroscopy and an EDAX Genesis 4000 Si(Li) solid state energy 
 dispersive x-ray spectrometer with ultrathin window. Sub-Ångström spatial resolution and energy resolutions of 100-150 meV at 200 kV and 
