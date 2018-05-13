@@ -9,11 +9,13 @@ title: Facilities
 <h3>List of MSCoRE facilities:</h3>
 [Advanced Electron Microscopy Center](#hope)
 <br>
+
+[X-ray Atlas Advanced Diffraction Lab](#xray)
+<br>
 [Thin Films Laboratory](#nico)
 <br>
 [Battery prototyping and testing laboratories](#matthieu)
-<br>
-[X-ray Atlas Advanced Diffraction Lab](#xray)
+
 </div>
 </div>
 
@@ -62,6 +64,29 @@ with a Zeiss stereomicroscope, Nikon petrographic optical microscope, digital ca
 UC7 ultramicrotome for embedded sample preparation of thin sections for TEM/STEM analysis.
 <br>
 [Back to top](#top)
+
+<h3><a name="xray"></a>X-Ray Atlas Advanced Diffraction Laboratory</h3>
+<div class="floatright">
+<img src="images/venture_400.JPG" width="350">
+</div>
+The X-ray diffraction laboratory at HIGP is managed by Dr. Przemyslaw Dera. The Atlas X-ray Diffraction system is a state of the art instrument being developed 
+within the current NSF EAR Infrasture and Facilities project #1541516. 
+The instrument is composed of two commercial X-ray diffractometers: (1) a Bruker D8 Venture single crystal instrument with high-brilliance Incoatec IuS 3.0 
+AgKa microfocus source and Helios focusing optics, and innovative Photon II CPAD detector, and (2) a Bruker D8 Advance high resolution Bragg-Brentano powder 
+diffractometer. The D8 Venture diffractometer has been customized with a range of new unique capabilities including: (1) motorized XYZ stage as an alternative 
+heavy-duty sample mounting platform for high-pressure, high-temperature diamond anvil, ore other, environmental/ in-operando cells, including resistively 
+heated and/or controlled gas-atmosphere devices, (2) fiber optics Raman spectrometer for ruby fluorescence measurements, and (3) photodiode detector, which 
+can be utilized for automated X-ray absorption/transmission scanning during diamond anvil cell experiments and Amptek fastSSD energy dispersive detector allowing 
+mico X-ray fluorescence measurements. X-ray Atlas can be used for in situ X-ray diffraction experiments, thin film structural characterization and battery ex situ 
+and in operando experiments, as well as routine structure characterisation of powders, ceramics, rock and environmental solid samples.
+<br>
+Close collaboration with the instrument manufacturing company, Bruker AXS allows us to develop and test innovative experimental approaches. 
+The extreme materials research group strongly emphasizes technology and information transfer through our user facility, PX^2 at Argonne National Lab, 
+and to other university-based labs outside of Hawaii. Our group also develops open-source data analysis software GSE_ADA/ATREX, which is widely used in the high 
+pressure crystallography field, and regularly offer training workshops. 
+<br>
+[Back to top](#top)
+
 
 <h3><a name="nico"></a>Thin Films Laboratory</h3>
 <div class="floatright">
