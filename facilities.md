@@ -4,17 +4,24 @@ active: facilities
 title: Facilities 
 ---
 
-<div class="floatright">
+<div class="floatl">
 <div class="box" markdown="1">
 <h3>List of MSCoRE facilities:</h3>
 [Center for Advanced Electron Microscopy](#caem)
 <br>
 [X-ray Atlas Advanced Diffraction Lab](#xray)
-<br>
-[Undergraduate Students](#ugs)
 </div>
 </div>
-<br>
+The ability to characterize the chemical composition, structure, texture, heterogeneities (and defects), and interfaces at macro- to 
+nano-scales, and relate this information to relevant physical properties is the foundation of modern materials science and engineering. 
+At UHM, we have access to a comprehensive suite of state-of-the-art instrumentation in the labs of the participating MSCoRE faculty members 
+and senior staff.
+In interdisciplinary science, sharing physical space and research facilities, and bringing to the table individuals with diverse 
+perspectives and insights, is essential to stimulate a creative exchange of ideas, move outside of traditional disciplinary boundaries, 
+and make transformative leaps forward in knowledge. In MSCoRE, we aim to create such a collaborative environment. 
+
+
+
 <h2>Advanced Electron Microscopy Center</h2>
 The Advanced Electron Microscopy Center is part of the School of Ocean and Earth Science and Technology, and is managed by Co-PI Ishii.  
 The Center features electron and ion microscopy instruments for sample analysis, and additional tools and instruments for small sample 
