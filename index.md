@@ -5,7 +5,9 @@ active: home
 ---
 
 <div>
-
+<div class="floatleft">
+<img src="images/hope1.jpg" width="350">
+</div>
 Materials Science is a major and important area of modern scientific research with direct impact on society’s technological 
 progress and many attractive employment opportunities for college graduates. In the United States, it is one of the strongest 
 areas of federal investment in academic research. 
