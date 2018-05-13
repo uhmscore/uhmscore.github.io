@@ -9,9 +9,11 @@ title: Facilities
 <h3>List of MSCoRE facilities:</h3>
 [Advanced Electron Microscopy Center](#hope)
 <br>
-[X-ray Atlas Advanced Diffraction Lab](#xray)
-<br>
 [Thin Films Laboratory](#nico)
+<br>
+[Battery prototyping and testing laboratories](#matthieu)
+<br>
+[X-ray Atlas Advanced Diffraction Lab](#xray)
 </div>
 </div>
 
@@ -75,5 +77,26 @@ transparent conductive oxides (ITO and ZnO). The Thin Films Lab is also equipped
 techniques for low cost photovoltaics (ink-based processes). The laboratory also operates 3 tube furnaces with annealing capabilities up to 1,600°C and 
 is equipped with standard characterization equipment, including a profilometer, a 5-channel potentiostat, a 4-point probe apparatus, 2 solar simulators, 
 a spectro-radiometer for light intensity calibration, a quantum efficiency measurement system and a UV-visible spectrometer. 
+<br>
+[Back to top](#top)
+
+<h3><a name="matthieu"></a>Battery prototyping and testing laboratories</h3>
+<div class="floatright">
+<img src="images/matthieu.png" width="350">
+</div>
+The HNEI battery testing and prototyping laboratories are managed by Dr. Matthieu Dubarry. The prototyping laboratory is located at the main University of 
+Hawaii at Mānoa campus. It hosts sophisticated state-of-the-art equipment for the synthesis of active materials, the fabrication of electrodes, their 
+assembly in prototype cells and their testing (Fig. F6). Major equipment includes an Argon-filled glove box and several battery testers, including 15 
+channels for prototype testing, as well as several temperature chambers, ceramic ovens, a UV-visible spectrometer and an ellipsometer. The laboratory 
+is also equipped with several commercial Li-ion battery testers for single-cell and battery-pack testing that are used to develop battery management 
+systems algorithms.
+<br>
+The new state-of-the-art HNEI battery-testing laboratory is located at HNEI’s Hawaii Sustainable Energy Research Facility (HiSERF) in downtown Honolulu 
+and has been operational since April 15, 2015. Within this new laboratory, latest generation battery testers are used in tandem with temperature chambers 
+to carry out calendar and cycle aging testing on single cells and modules. A total of 86 channels are available that are capable of sourcing and sinking 
+from 25 to 100 A, at voltages ranging from 5 to 60 V. The battery-testing laboratory has been designed with safety in mind. All batteries are tested inside 
+temperature chambers and the laboratory itself is built in a retrofitted industrial fridge with its own air conditioning and ventilation system to provide 
+complete isolation from the rest of the facility. Additionally, each temperature chamber is equipped with smoke, CO2 and H2 sensors to detect any gassing, 
+signal to automatically shut down all the testing, purge the chamber with nitrogen, sound a warning alarm, and notify authorized personnel. 
 <br>
 [Back to top](#top)
