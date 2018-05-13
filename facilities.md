@@ -4,7 +4,7 @@ active: facilities
 title: Facilities 
 ---
 
-<div class="floatl">
+<div class="floatright">
 <div class="box" markdown="1">
 <h3>List of MSCoRE facilities:</h3>
 [Center for Advanced Electron Microscopy](#caem)
@@ -12,6 +12,7 @@ title: Facilities
 [X-ray Atlas Advanced Diffraction Lab](#xray)
 </div>
 </div>
+
 The ability to characterize the chemical composition, structure, texture, heterogeneities (and defects), and interfaces at macro- to 
 nano-scales, and relate this information to relevant physical properties is the foundation of modern materials science and engineering. 
 At UHM, we have access to a comprehensive suite of state-of-the-art instrumentation in the labs of the participating MSCoRE faculty members 
