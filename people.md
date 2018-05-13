@@ -3,6 +3,7 @@ layout: default
 title: People
 active: people
 ---
+<div class="box" markdown="1">
 <a name="top"></a>
 <div>
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
@@ -19,6 +20,7 @@ on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrys
 <br>
 [Back to top](#top)
 
+
 <h3><a name="ishii"></a>Dr. Hope A. Ishii</h3>
 <div class="floatright">
 <img src="images/ishii.jpg" width="150">
@@ -32,4 +34,5 @@ Films Laboratory group leader in 2010. Dr. Gaillard’s current research project
 on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrystal inks for printable thin film photovoltaics.
 <br>
 [Back to top](#top)
+</div>
 </div>
