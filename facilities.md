@@ -65,7 +65,7 @@ UC7 ultramicrotome for embedded sample preparation of thin sections for TEM/STEM
 
 <h3><a name="xray"></a>X-Ray Atlas Advanced Diffraction Laboratory</h3>
 <div class="floatright">
-<img src="images/venture_400.JPG" width="350">
+<img src="images/advance_400.JPG" width="350">
 </div>
 The X-ray diffraction laboratory at HIGP is managed by Dr. Przemyslaw Dera. The Atlas X-ray Diffraction system is a state of the art instrument being developed 
 within the current NSF EAR Infrasture and Facilities project #1541516. 
