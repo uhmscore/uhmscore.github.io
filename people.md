@@ -99,5 +99,18 @@ Mineralogical Society of America (2013) and was selected as
 Distinguished Lecturer for COMPRES in 2015. He has authored and
 co-authored over 100 papers in scientific journals, 4 book chapters, and
 co-edited 4 books and journal special volumes.
+<br>
+<br>
+
+<h3><a name="dera"></a>Dr. Craig M. Jensen</h3>
+<div class="floatright">
+<img src="images/jensen.jpg" width="150">
+</div>
+Craig Jensen received his B.S. in Chemistry from the University of California at Santa Barbara in 1979 
+and worked in industry for a year before entering graduate school. He received his Ph.D. from UCLA in 
+1984 and after postdoctoral research at the University of California at San Diego, he joined the University 
+of Hawaii faculty in 1986.
+
+
 </div>
 </div>
