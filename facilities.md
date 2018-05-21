@@ -18,6 +18,12 @@ title: Facilities
 [Microfabrication Cleanroom](#cleanroom)
 <br>
 [Thermofluids Laboratory](#shin)
+<br>
+[Nano/Micro Structures and Devices Lab](#brown)
+<br>
+[Laboratory of Biocolloids and Biointerfaces](#zuo)
+<br>
+[Hawaii Nanotechnology Laboratory](#nejhad)
 </div>
 </div>
 
@@ -157,5 +163,50 @@ fluorescence microscope (Leica DMi8), two syringe pumps (Harvard PicoPlus Elite)
 reverse osmosis system that is capable of operating up to 1400 psi. Other equipment located in the lab 
 includes: microbalance, plasma treater, lock-in amplifier, hotplate/stirrer, convection oven, chiller, 
 micropipette, sonicator, etc.
+<br>
+[Back to top](#top)
+
+<h3><a name="brown"></a>Nano/Micro Structures and Devices Lab</h3>
+<div class="floatright">
+</div>
+The Nano/Micro Structures and Devices Lab, managed by Dr. Joseph Brown, is currently being established 
+for solid materials applications in the areas of nanomanufacturing and micro/nano device, system, sensor, 
+and structure engineering. A wet lab space has been designated for this purpose and it is currently being 
+equipped. Materials processing capabilities will include a tube furnace with controlled gas supply for 
+thermochemistry experiments, a box furnace, and a fume hood. Planned characterization capabilities will 
+include an optical microscope and benchtop mechanical and electrical testing. 
+<br>
+[Back to top](#top)
+
+<h3><a name="zuo"></a>Laboratory of Biocolloids and Biointerfaces</h3>
+<div class="floatright">
+<img src="images/zuolab.jpg" width="350">
+</div>
+The Laboratory of Biocolloids and Biointerfaces (LoBB) in the College of Engineering, 
+was founded by Core Participant Zuo. The LoBB, focuses on general colloid and surface science 
+and its applications in area of biomedical and biotechnological interest, such as biophysical 
+and biomedical studies of pulmonary surfactant and self-assembled monolayers, pulmonary toxicology 
+of nanomaterials and nanoparticle-based pulmonary drug delivery, development of surface tension 
+and contact angle measurement methodologies, and biocolloidal systems related to particles and 
+microorganisms. LoBB is equipped with an Innova AFM (Bruker, Santa Barbara, CA). The Innova AFM 
+features submicron resolution and a large scanning area, up to 100x100 microns. This AFM is well 
+suited for studying topography of samples and for measuring force spectroscopy. The Innova AFM is 
+equipped with a fluid-imaging cell, which allows AFM scan and force measurements in a liquid medium. 
+LoBB is also equipped with two home-made constrained-drop surfactometers (CDS). The CDS is well suited 
+for determining the dynamic surface tension and contact angle. It can be used to study thin-film materials, 
+smart surfaces, and other soft matter.
+<br>
+[Back to top](#top)
+
+<h3><a name="nejhad"></a>Hawaii Nanotechnology Laboratory</h3>
+<div class="floatright">
+<img src="images/nejhadlab.jpg" width="350">
+</div>
+The HNL, directed by Dr. Ghasemi-Nejhad, is located in the Mechanical Engineering Department and is equipped 
+with state of the art nanomaterials (CNTs, GNSs) and nanocomposites manufacturing.  There are CVD furnaces for 
+the development of CNTs Nanoforests, which have applications in Nanocomposites (e.g. wind turbine blades) and PEMFCs 
+(e.g., GDLs and CLs).  
+The Laboratory is also equipped with a state-of-the-art PEMFC Test Station. There is also a 
+fully automatic autoclave for composite and nanocomposite materials processing and manufacturing.
 <br>
 [Back to top](#top)
