@@ -104,7 +104,7 @@ co-edited 4 books and journal special volumes.
 
 <h3><a name="jensen"></a>Dr. Craig M. Jensen</h3>
 <div class="floatright">
-<img src="images/jensen.png" width="150">
+<img src="images/jensen.jpg" width="150">
 </div>
 Craig Jensen received his B.S. in Chemistry from the University of California at Santa Barbara in 1979 
 and worked in industry for a year before entering graduate school. He received his Ph.D. from UCLA in 
