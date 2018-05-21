@@ -183,7 +183,7 @@ include an optical microscope and benchtop mechanical and electrical testing.
 <img src="images/zuolab.jpg" width="350">
 </div>
 The Laboratory of Biocolloids and Biointerfaces (LoBB) in the College of Engineering, 
-was founded by Core Participant Zuo. The LoBB, focuses on general colloid and surface science 
+was founded by Dr. Yi Zuo. The LoBB, focuses on general colloid and surface science 
 and its applications in area of biomedical and biotechnological interest, such as biophysical 
 and biomedical studies of pulmonary surfactant and self-assembled monolayers, pulmonary toxicology 
 of nanomaterials and nanoparticle-based pulmonary drug delivery, development of surface tension 
