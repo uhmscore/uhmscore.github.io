@@ -110,6 +110,37 @@ Craig Jensen received his B.S. in Chemistry from the University of California at
 and worked in industry for a year before entering graduate school. He received his Ph.D. from UCLA in 
 1984 and after postdoctoral research at the University of California at San Diego, he joined the University 
 of Hawaii faculty in 1986.
+<br>
+<br>
+
+
+<h3><a name="shin"></a>Dr. Sangwoo Shin</h3>
+<div class="floatright">
+<img src="images/shin.jpg" width="150">
+</div>
+Sangwoo Shin is an assistant professor in the department of mechanical engineering at the University of Hawaii at Manoa. 
+He received his Ph.D. in mechanical engineering from Yonsei University in Seoul, Korea in 2012. Before joining UH Manoa 
+in 2017, he worked at Princeton University as a postdoctoral research associate from 2013 to 2016. His research interests 
+include transport phenomena in small-scale systems, micro/nanofluidics, electrokinetics, colloids/soft matter physics, 
+targeted drug delivery, water treatment, nanowire synthesis and characterization, phase-change memory devices, two-phase 
+heat transfer, etc.
+<br>
+<br>
+
+<h3><a name="zuo"></a>Dr. Yi Zuo</h3>
+<div class="floatright">
+<img src="images/zuo.jpg" width="150">
+</div>
+Yi Zuo is a Professor in the Department of Mechanical Engineering and Adjunct Professor in the Department of Pediatrics 
+in John A. Burns School of Medicine. He earned his PhD in Mechanical Engineering from the University of Toronto in 2006. 
+His research interests are focused on general areas of colloid and surface science and their applications to areas of 
+biomedical and biotechnological interest, such as applied surface thermodynamics, thin-film materials, pulmonary 
+surfactants, particles, and environmental, health and safety impacts of nanotechnology. Zuo has published more than 
+70 peer-reviewed papers in scientific journals, 4 book chapters, and co-edited 1 book. He received the NSF CAREER Award 
+in 2013 and the Faulty Research Award in 2016.
+<br>
+<br>
+
 
 
 </div>
