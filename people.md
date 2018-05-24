@@ -119,9 +119,7 @@ of Hawaii faculty in 1986.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 <h3><a name="shin"></a>Dr. Sangwoo Shin, ME</h3>
@@ -134,6 +132,8 @@ in 2017, he worked at Princeton University as a postdoctoral research associate 
 include transport phenomena in small-scale systems, micro/nanofluidics, electrokinetics, colloids/soft matter physics, 
 targeted drug delivery, water treatment, nanowire synthesis and characterization, phase-change memory devices, two-phase 
 heat transfer, etc.
+<br>
+<br>
 <br>
 <br>
 
