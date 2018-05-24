@@ -26,13 +26,16 @@ on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrys
 <div class="floatright">
 <img src="images/ishii.jpg" width="150">
 </div>
-Nicolas Gaillard (PhD, Micro- and Nano-electronics, Joseph Fourier University, Grenoble, France) has over 10 years of experience in materials science, 
-with an emphasis in the areas of photovoltaics, photoelectrochemical hydrogen production and integrated circuits. Following his graduate work, Dr. Gaillard 
-spent 3 years with the IBM/Motorola/STMicroelectronics alliance working on oxide/metal interfaces for CMOS transistors and DRAM memories applications. 
-He joined the Thin Films Laboratory of the Hawaii Natural Energy Institute at the University of Hawaii at Manoa in 2007 as a post-doctoral, working under 
-the supervision of Dr. Eric Miller on metal oxide thin films for photoelectrochemical hydrogen production. Dr. Gaillard was appointed faculty and Thin 
-Films Laboratory group leader in 2010. Dr. Gaillard’s current research projects include: (i) engineering of high efficiency PEC materials, with an emphasis 
-on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrystal inks for printable thin film photovoltaics.
+Hope Ishii is the Director of the Advanced Electron Microscopy Center and sits on the faculty of the Hawaii Institute 
+of Geophysics and Planetology (HIGP). She obtained her Ph.D. in Materials Science and Engineering from Stanford University 
+in 2002. Prior to joining HIGP in 2014, she worked in the semiconductor and hard disk drive industries and then, for nearly
+ a decade, as a research staff member at the Lawrence Livermore National Laboratory. Dr. Ishii is the Vice Chair of NASA’s 
+ Curation and Analysis Planning Team for Extraterrestrial Materials and sits on the Executive Committee of the 
+ American Physical Society’s Far West Section. Dr. Ishii has 2 decades of experience in materials characterization 
+ and analysis using a wide variety of tools. Her materials research experience has spanned a wide range of materials 
+ from nanocomposites to liquid crystals to amorphous solids and, as a member of the Preliminary Examination Team for NASA 
+ Stardust mission comet samples, astromaterials. Her current research focus on “mining” comets and asteroids for 
+ information about the conditions and processing that occurred early in our solar system’s history.
 <br>
 <br>
 
