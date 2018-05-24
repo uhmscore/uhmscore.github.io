@@ -112,6 +112,8 @@ and worked in industry for a year before entering graduate school. He received h
 of Hawaii faculty in 1986.
 <br>
 <br>
+<br>
+<br>
 
 
 <h3><a name="shin"></a>Dr. Sangwoo Shin</h3>
