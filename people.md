@@ -7,7 +7,7 @@ active: people
 <a name="top"></a>
 <div>
 
-<h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard</h3>
+<h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard, HNEI</h3>
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
 </div>
@@ -22,7 +22,7 @@ on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrys
 <br>
 
 
-<h3><a name="ishii"></a>Dr. Hope A. Ishii</h3>
+<h3><a name="ishii"></a>Dr. Hope A. Ishii, HIGP</h3>
 <div class="floatright">
 <img src="images/ishii.jpg" width="150">
 </div>
@@ -36,7 +36,7 @@ on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrys
 <br>
 <br>
 
-<h3><a name="dubarry"></a>Dr. Matthieu Dubarry</h3>
+<h3><a name="dubarry"></a>Dr. Matthieu Dubarry, HNEI</h3>
 <div class="floatright">
 <img src="images/dubarry.jpg" width="150">
 </div>
@@ -55,7 +55,7 @@ and the testing of emerging battery technologies for grid-connected and transpor
 <br>
 <br>
 
-<h3><a name="brown"></a>Dr. Joseph J. Brown</h3>
+<h3><a name="brown"></a>Dr. Joseph J. Brown, ME</h3>
 <div class="floatright">
 <img src="images/brown.jpg" width="150">
 </div>
@@ -74,7 +74,7 @@ structures for manufacturing, research into contact electrification.
 <br>
 <br>
 
-<h3><a name="dera"></a>Dr. Przemyslaw Dera</h3>
+<h3><a name="dera"></a>Dr. Przemyslaw Dera, HIGP</h3>
 <div class="floatright">
 <img src="images/Przemek.jpg" width="150">
 </div>
@@ -102,7 +102,7 @@ co-edited 4 books and journal special volumes.
 <br>
 <br>
 
-<h3><a name="jensen"></a>Dr. Craig M. Jensen</h3>
+<h3><a name="jensen"></a>Dr. Craig M. Jensen, Chemistry</h3>
 <div class="floatright">
 <img src="images/jensen.jpg" width="150">
 </div>
@@ -116,7 +116,7 @@ of Hawaii faculty in 1986.
 <br>
 
 
-<h3><a name="shin"></a>Dr. Sangwoo Shin</h3>
+<h3><a name="shin"></a>Dr. Sangwoo Shin, ME</h3>
 <div class="floatright">
 <img src="images/shin.jpg" width="150">
 </div>
@@ -129,7 +129,7 @@ heat transfer, etc.
 <br>
 <br>
 
-<h3><a name="zuo"></a>Dr. Yi Zuo</h3>
+<h3><a name="zuo"></a>Dr. Yi Zuo, ME</h3>
 <div class="floatright">
 <img src="images/zuo.jpg" width="150">
 </div>
