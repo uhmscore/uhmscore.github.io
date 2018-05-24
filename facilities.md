@@ -154,7 +154,7 @@ for upgrades to this facility.
 
 <h3><a name="shin"></a>Thermofluids Laboratory</h3>
 <div class="floatright">
-<img src="images/shin.jpg" width="350">
+<img src="images/shinlab.jpg" width="350">
 </div>
 The Thermofluids Lab in the College of Engineering, led by Dr. Sangwoo Shin, is capable of conducting 
 water-related research at various scales. The lab is equipped with microfluidics setup including inverted 
