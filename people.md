@@ -50,7 +50,6 @@ in 2002. Prior to joining HIGP in 2014, she worked in the semiconductor and hard
 target="_blank">Dr. Matthieu Dubarry, HNEI</a></h3>
 <p><a href="mailto:matthieu@hawaii.edu" target="_top">matthieu@hawaii.edu</a>
 </p>
-<h3><a name="dubarry"></a>Dr. Matthieu Dubarry, HNEI</h3>
 <div class="floatright">
 <img src="images/dubarry.jpg" width="150">
 </div>
