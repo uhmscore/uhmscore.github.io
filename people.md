@@ -8,6 +8,7 @@ active: people
 <div>
 
 <h3><a name="gaillard"></a>Dr. Nicolas M. Gaillard, HNEI</h3>
+<a ngaillar@hawaii.edu>
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
 </div>
@@ -109,10 +110,13 @@ co-edited 4 books and journal special volumes.
 <div class="floatright">
 <img src="images/jensen.jpg" width="150">
 </div>
-Craig Jensen received his B.S. in Chemistry from the University of California at Santa Barbara in 1979 
-and worked in industry for a year before entering graduate school. He received his Ph.D. from UCLA in 
-1984 and after postdoctoral research at the University of California at San Diego, he joined the University 
-of Hawaii faculty in 1986.
+Dr. Jensen obtained his PhD at the University of California at Los Angeles and was a postdoctoral fellow at the 
+University of California at San Diego. He was awarded the US DOE Hydrogen program’s “1999 Research Success Story” 
+award and the EERE “R&D” award in 2004.  To date, he has authored or co-authored over 145 peer-reviewed publications, 
+9 U.S. patents, and two books. In 2003, Dr. Jensen founded Hawaii Hydrogen Carriers, LLC (HHC) and has since served 
+as the company president. Dr. Jensen's main research interests include synthesis and characterization of novel inorganic 
+and organometallic compounds, hydrogen storage materials, homogeneous catalysis, dynamic NMR spectroscopy and solid state 
+chemistry.   
 <br>
 <br>
 <br>
@@ -169,7 +173,7 @@ and conversion and thermal management.
 <br>
 <br>
 
-<h3><a name="sattler"></a>Dr. Klaus Sattler, Department of Physics</h3>
+<h3><a name="sattler"></a>Dr. Klaus Sattler, Physics</h3>
 <div class="floatright">
 <img src="images/sattler.jpg" width="150">
 </div>
