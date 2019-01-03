@@ -68,6 +68,10 @@ and the testing of emerging battery technologies for grid-connected and transpor
 <br>
 <br>
 
+<h3><a name="brown" href="https://micronanolab.wordpress.com/" 
+target="_blank">Dr. Joseph J. Brown, ME</a></h3>
+<p><a href="mailto:jjbrown@hawaii.edu" target="_top">jjbrown@hawaii.edu</a>
+</p>
 <h3><a name="brown"></a>Dr. Joseph J. Brown, ME</h3>
 <div class="floatright">
 <img src="images/brown.jpg" width="150">
