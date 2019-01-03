@@ -8,9 +8,8 @@ active: people
 <div>
 
 <h3><a name="gaillard"></a></h3><a href="https://www.hnei.hawaii.edu/staff/nicolas-m-gaillard" target="_blank">Dr. Nicolas M. Gaillard, HNEI</a>
-<a ngaillar@hawaii.edu>
-
-
+<p><a href="mailto:ngaillar@hawaii.edu" target="_top">ngaillar@hawaii.edu</a>
+</p>
 
 <div class="floatright">
 <img src="images/gaillard.jpg" width="150">
