@@ -25,7 +25,10 @@ on chalcopyrite materials (CuInGaSSe) and (ii) the development of novel nanocrys
 <br>
 
 
-<h3><a name="ishii"></a>Dr. Hope A. Ishii, HIGP</h3>
+<h3><a name="ishii" href="https://www.higp.hawaii.edu/cgi-directory/directory.cgi?func=disp&searchname=HopeA.Ishii" 
+target="_blank">Dr. Hope A. Ishii, HIGP</a></h3>
+<p><a href="mailto:hope.ishii@higp.hawaii.edu" target="_top">hope.ishii@higp.hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/ishii.jpg" width="150">
 </div>
