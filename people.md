@@ -152,6 +152,18 @@ in 2013 and the Faulty Research Award in 2016.
 <br>
 <br>
 
+<h3><a name="wlee"></a>Dr. Woochul Lee, ME</h3>
+<div class="floatright">
+<img src="images/wlee.jpg" width="150">
+</div>
+Woochul Lee is an assistant professor in the Department of Mechanical Engineering at the University of Hawaii at Manoa. 
+He received his B.S. degree in Mechanical Engineering from Yonsei University (Korea) in 2008. Then, he joined Professor 
+Pramod Reddy’s lab and received his M.S. and Ph.D. degree in Mechanical Engineering at the University of Michigan Ann Arbor 
+in 2010 and 2014, respectively. He did postdoctoral study with Professor Peidong Yang and Dr. Jeff Urban at UC Berkeley 
+and Lawrence Berkeley National Lab. His research interests include fundamental understanding of nanoscale energy transport 
+and conversion and thermal management.
+<br>
+<br>
 
 
 </div>
