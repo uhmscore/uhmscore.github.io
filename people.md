@@ -122,7 +122,7 @@ co-edited 4 books and journal special volumes.
 <br>
 <br>
 
-<h3><a name="jensen" href="http://www.chem.hawaii.edu/UH_Chem/faculty/Jensen2006/Research_Group.htm" 
+<h3><a name="jensen" href="https://manoa.hawaii.edu/chem/groups/jensen/" 
 target="_blank">Dr. Craig M. Jensen, Chemistry</a></h3>
 <p><a href="mailto:jensen@hawaii.edu" target="_top">jensen@hawaii.edu</a>
 </p>
@@ -141,8 +141,10 @@ chemistry.
 <br>
 <br>
 
-
-<h3><a name="shin"></a>Dr. Sangwoo Shin, ME</h3>
+<h3><a name="shin" href="https://www.sangwooshin.com/" 
+target="_blank">Dr. Sangwoo Shin, ME</a></h3>
+<p><a href="mailto:sangwoos@hawaii.edu" target="_top">sangwoos@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/shin.jpg" width="150">
 </div>
@@ -157,7 +159,11 @@ heat transfer, etc.
 <br>
 <br>
 
-<h3><a name="zuo"></a>Dr. Yi Zuo, ME</h3>
+
+<h3><a name="zuo" href="http://www2.hawaii.edu/~yzuo/index.html" 
+target="_blank">Dr. Yi Zuo, ME</a></h3>
+<p><a href="mailto:yzuo@hawaii.edu" target="_top">yzuo@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/zuo.jpg" width="150">
 </div>
@@ -173,7 +179,11 @@ in 2013 and the Faulty Research Award in 2016.
 <br>
 <br>
 
-<h3><a name="wlee"></a>Dr. Woochul Lee, ME</h3>
+
+<h3><a name="wlee" href="https://www.woochulleegroup.com/" 
+target="_blank">Dr. Woochul Lee, ME</a></h3>
+<p><a href="mailto:woochull@hawaii.edu" target="_top">woochull@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/wlee.jpg" width="150">
 </div>
@@ -188,7 +198,10 @@ and conversion and thermal management.
 <br>
 <br>
 
-<h3><a name="sattler"></a>Dr. Klaus Sattler, Physics</h3>
+<h3><a name="sattler" href="https://sites.google.com/a/hawaii.edu/klaus-sattler-lab/" 
+target="_blank">Dr. Klaus Satler, ME</a></h3>
+<p><a href="mailto:sattler@hawaii.edu" target="_top">sattler@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/sattler.jpg" width="150">
 </div>
