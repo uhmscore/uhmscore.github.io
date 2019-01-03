@@ -90,24 +90,28 @@ structures for manufacturing, research into contact electrification.
 <br>
 <br>
 
-<h3><a name="dera"></a>Dr. Przemyslaw Dera, HIGP</h3>
+
+<h3><a name="dera" href="https://pdera.github.io/" 
+target="_blank">Dr. Przemyslaw Dera, HIGP</a></h3>
+<p><a href="mailto:pdera@hawaii.edu" target="_top">pdera@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/Przemek.jpg" width="150">
 </div>
 Przemyslaw (Przemek) Dera is a Professor of Mineral Physics and
 Extreme Materials Science at the Hawaii Institute of Geophysics and
 Planetology (HIGP). He obtained his Ph.D. in physical chemistry in 2000 from Adam Mickiewicz
-University in Poznan, Poland in 2000. Prior to moving to Hawaii, 
+University in Poznan, Poland. Prior to moving to Hawaii, 
 Dera worked as research scientist
 at Carnegie Institution of Washington Geophysical Laboratory
-(2000-2007) and University of Chicago Center for Advanced Radiation
-Sources (2007-2013).  Przemek has been closely involved in the
+ and University of Chicago Center for Advanced Radiation
+Sources.  Przemek has been closely involved in the
 activities of high-pressure research community both within USA, as
 well as internationally.  He chaired the International Union of
-Crystallography Commission on High Pressure (2008-2014) and served as
+Crystallography Commission on High Pressure and served as
 member and vice-chair the Executive Committee of COMPRES, the
-Consortium for Materials Properties Research in Earth Sciences
-(2010-2013). His main scientific interests include study of
+Consortium for Materials Properties Research in Earth Sciences. 
+His main scientific interests include study of
 pressure-induced displacive phase transitions and spin crossover
 phenomena in materials, with particular emphasis on minerals relevant
 to planetary interiors. Przemek is an Elected Fellow of the
@@ -118,7 +122,10 @@ co-edited 4 books and journal special volumes.
 <br>
 <br>
 
-<h3><a name="jensen"></a>Dr. Craig M. Jensen, Chemistry</h3>
+<h3><a name="jensen" href="http://www.chem.hawaii.edu/UH_Chem/faculty/Jensen2006/Research_Group.htm" 
+target="_blank">Dr. Craig M. Jensen, Chemistry</a></h3>
+<p><a href="mailto:jensen@hawaii.edu" target="_top">jensen@hawaii.edu</a>
+</p>
 <div class="floatright">
 <img src="images/jensen.jpg" width="150">
 </div>
@@ -133,10 +140,6 @@ chemistry.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 
 <h3><a name="shin"></a>Dr. Sangwoo Shin, ME</h3>
