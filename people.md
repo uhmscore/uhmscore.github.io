@@ -199,7 +199,7 @@ and conversion and thermal management.
 <br>
 
 <h3><a name="sattler" href="https://sites.google.com/a/hawaii.edu/klaus-sattler-lab/" 
-target="_blank">Dr. Klaus Sattler, ME</a></h3>
+target="_blank">Dr. Klaus Sattler, Physics</a></h3>
 <p><a href="mailto:sattler@hawaii.edu" target="_top">sattler@hawaii.edu</a>
 </p>
 <div class="floatright">
